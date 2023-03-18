@@ -1,2 +1,4 @@
 # My-Learning-at-YBI-Foundation
-My Projects
+Im learning in YBI
+Business Analytics & ML
+These are projects that I developed
